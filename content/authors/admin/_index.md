@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jinzhou Cao
 
 # Username (this should match the folder name)
 authors:
@@ -14,28 +14,34 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shenzhen University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban big data analysis and mining
+- Geographic information science
+- Understanding human mobility and urban environments
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PostDoc in Geographic Information Science
+    institution: Shenzhen University
+    year: 2019-now
+  - course: Ph.D. in Geographic Information Science
+    institution: LIESMARS,Wuhan University
+    year: 2013-2019
+  - course: Visiting Student in Transportation Engineering
+    institution: Univsersity of Washington
+    year: 2017-2018
+  - course: Visiting Student in Geographic Information Science
+    institution: Spatial Lab, Shenzhen University
+    year: 2014-2019
+  - course: BSc in Remote Sensing
+    institution: RSIE, Wuhan University
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jinzhou CAO got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of Shenzhen Key Laboratory of Spatial Smart Sensing and Services and THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. His major is Geographic Information Science and Urban Big Data Analysis, particularly interested in understanding human mobility and urban dynamics through big geo-social data. He has published several articles in journals and international conferences. He has been granted national scholarship for graduate students twice. You can find his CV here.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
