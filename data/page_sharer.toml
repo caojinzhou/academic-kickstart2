@@ -24,6 +24,14 @@
   icon_pack = "fas"
   icon = "envelope"
   enable = true
+  
+  [[buttons]]
+  id = "wechat"
+  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+  title = "Wechat"
+  icon_pack = "fab"
+  icon = "weibo"
+  enable = true
 
 [[buttons]]
   id = "linkedin"
@@ -39,7 +47,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
