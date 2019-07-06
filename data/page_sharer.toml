@@ -30,7 +30,7 @@
   url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
   title = "Wechat"
   icon_pack = "fab"
-  icon = "weibo"
+  icon = "weixin"
   enable = true
 
 [[buttons]]
