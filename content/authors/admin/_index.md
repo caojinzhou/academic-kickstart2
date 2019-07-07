@@ -71,8 +71,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
+user_groups:[]
+#- Researchers
 ---
 
 Jinzhou CAO got his Ph.D. degree in GIS from State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. He was also a visiting student of Shenzhen Key Laboratory of Spatial Smart Sensing and Services and THINK Lab, University of Washington, Seattle, USA. during his Ph.D. student period. His major is Geographic Information Science and Urban Big Data Analysis, particularly interested in understanding human mobility and urban dynamics through big geo-social data. He has published several articles in journals and international conferences. He has been granted national scholarship for graduate students twice. You can find his CV here.
