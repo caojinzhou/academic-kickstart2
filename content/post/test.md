@@ -1,3 +1,14 @@
++++
+title = "2018"
+
+date = 2016-08-14T00:00:00
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+tags = ["politic"]
+summary = "2018党和国家机构改革职能配置、内设机构和人员编制规定（三定方案）大全"
+
++++
 
 <script src="https://cdn.jsdelivr.net/npm/echarts@4.0.4/dist/echarts.common.min.js" integrity="sha256-CRtw4pUXzFosdt4rnjf2ZPyVHH48Rsd5ddXe6jZ6iPM=" crossorigin="anonymous"></script>
 <div id="benchmark-chart" style="width: 100%;height: 400px;margin: auto;"></div>
